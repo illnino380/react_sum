@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Sum.css"],"names":[],"mappings":"AAAA,EACE,qBACF","file":"main.184b6526.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n/* I've just added css file because linter\ndidn't pass solution and searched for *.css file in the project */\n"]}
